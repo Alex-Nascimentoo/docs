@@ -73,7 +73,7 @@
           "required": true
         },
         "responses": {
-          "200": {
+          "201": {
             "description": "plant response",
             "content": {
               "application/json": {
